@@ -1,0 +1,4 @@
+INFO    2023-10-20 15:48:36,801 [restartedMain] com.Log4j.Log4jProjectApplication  - Information
+ERROR   2023-10-20 15:48:36,802 [restartedMain] com.Log4j.Log4jProjectApplication  - Error
+WARN    2023-10-20 15:48:36,802 [restartedMain] com.Log4j.Log4jProjectApplication  - warring
+FATAL   2023-10-20 15:48:36,802 [restartedMain] com.Log4j.Log4jProjectApplication  - critical error
